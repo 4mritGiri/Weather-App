@@ -42,7 +42,7 @@ also change according to the weather.
 
 ## Author
 
-### Amrit Giri
+>### Amrit Giri
 
 ## License
 
